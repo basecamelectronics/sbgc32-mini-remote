@@ -1,0 +1,38 @@
+
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+                                Releases
+________________________________________________________________________
+
+### Release 1.2  - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Schematic:
+- Fixed analog joystick connectors' pinout;
+- Added bypass capacitors for the RS-422 chips;
+- The limitation of copper layers for mounting holes is done using rules, without keep-out layer;
+- Minor optimization in the layout and routing of the Main PCB.
+
+Frame:
+- The display frame is lowered 1 mm down until it makes tight contact with its mounts.
+
+### Release 1.1  - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Schematic:
+- The operation of USART1 has been slightly changed, a Schottky diode has been added to the Tx pin on the SBGC32 side, a pull-up resistor has been added;
+- The gates of all MOSFETs are protected by 5V TVS diodes;
+- For RS-422 converters, the terminator resistor has moved to pins A and B;
+- The logic for adjusting the display brightness on a P-channel transistor has changed;
+- All the capacitors previously necessary for anti-bouncing contacts have disappeared. Now this task is handled by the firmware. The capacitors on the encoders changed from 100nF to 10nF. The button logic has been inverted;
+- The bootloader works without a transistor, directly from SW1;
+- Fixed a bug with the order of pins on the connector for a board with LEMO connectors;
+- The FPC display connector has moved to the right to give more space for the cable, the joystick connectors (from the edge) and USB connectors (towards the edge) have moved slightly;
+- Fixed non-working footprint for the CP2102 chip;
+- The footprint of the encoders has changed slightly for more accurate positioning;
+- The space for the joystick on the side of the shield connector has increased slightly.
+
+Frame:
+- The top side was made 0.5mm thinner;
+- The display frame is slightly smaller;
+- The mount for the absolute encoder handle has been redesigned;
+- The holes for LEMO connectors have changed to 9mm;
+- The cutout for USB-TypeC has changed slightly;
+- The shape of the display support has changed.

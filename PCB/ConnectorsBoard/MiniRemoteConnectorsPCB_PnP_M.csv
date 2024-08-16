@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+D:\basecam\MiniRemote\Project Outputs for MiniRemote\Pick Place\Generates pick and place files.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02.07.24
+Time:       20:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P8","RS-422","TopLayer","24.8100","15.1900","180","CONN RCPT FMALE 6POS GOLD SOLDER"
+"P10","SerialAPI","TopLayer","6.8100","15.1900","180","CONN RCPT FMALE 4POS GOLD SOLDER"
+"P7","LEMO_PCB","TopLayer","16.0000","5.9500","180","WR-FPC 0.50 mm 10-pin SMT ZIF Horizontal"
+"C31","100nF","BottomLayer","25.6540","9.5251","0","0603 100nF 50V X7R 10%"
+"C30","100nF","BottomLayer","15.6210","11.4300","90","0603 100nF 50V X7R 10%"
+"C28","100nF","BottomLayer","10.1600","14.8090","90","0603 100nF 50V X7R 10%"
+"C27","100nF","BottomLayer","13.7160","11.4300","90","0603 100nF 50V X7R 10%"

@@ -1,0 +1,11 @@
+MiniRemoteConnectorsPCB
+=======================
+
+Material: FR4
+Dimension: 32x23mm
+Layers: 2 (two)
+PCB thickness: 1.6mm
+Copper thickness: 35um
+Solder mask: BLACK
+Silkscreen: WHITE, top + bottom
+Immersion gold plated

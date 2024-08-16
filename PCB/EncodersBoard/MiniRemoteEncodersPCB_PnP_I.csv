@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+D:\basecam\MiniRemote\Project Outputs for MiniRemote\Pick Place\Generates pick and place files.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02.07.24
+Time:       20:02
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U5","PEC11L-4115F-S0020","TopLayer","393.701","383.858","0","ROTARY ENCODER MECHANICAL 20PPR"
+"U3","PEC11L-4115F-S0020","TopLayer","1456.693","383.858","0","ROTARY ENCODER MECHANICAL 20PPR"
+"P4","Encoders","TopLayer","925.197","234.252","180","WR-FPC 0.50 mm 8-pin SMT ZIF Horizontal"
