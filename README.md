@@ -10,6 +10,7 @@ This repository contains the main production files and other 3D files related to
 
 The code for this device is also open-source. You can find it <a href="https://github.com/basecamelectronics/sbgc32-serial-api/tree/master/examples/STM32/MiniRemote">here</a></center>.
 This folder contains a <a href="https://github.com/basecamelectronics/sbgc32-serial-api/tree/master/examples/STM32/MiniRemote/MiniRemoteDescription.pdf">document</a></center> with a more detailed description of the project.
+This project will soon be available for order in our store.
 
 Files Description
 -----------------
@@ -22,7 +23,9 @@ Files Description
 
 [changelog.txt](changelog.txt) - a project changelog;
 
-[MiniRemoteAccessories.xlsx](MiniRemoteAccessories.xlsx) - BOM for enclosure assembly;
+[MiniRemoteAccessories.csv](MiniRemoteAccessories.csv) - BOM for enclosure assembly;
+
+[MiniRemoteAssemblyInstruction.pdf](MiniRemoteAssemblyInstruction.pdf) - Detailed assembly instructions.
 
 Feedback
 --------
@@ -30,5 +33,3 @@ Feedback
 If you have any questions or suggestions about using MiniRemote, you can contact at:
 
 support@basecamelectronics.com
-
-a.ivanisov@basecamelectronics.com
